@@ -18,5 +18,3 @@ Problems Encountered:
 
 Future Developments:
 - add a backend to this frontend web application to allow users to interact with the website and store their data
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
