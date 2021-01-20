@@ -16,5 +16,5 @@ Technologies used:
 Problems Encountered:
 - when ever I added a new .sass file my sass code would not compile to the style.css file. This caused my HTML not to update and show design changes. I needed to restart the compile:sass script to solve this problem
 
-Future Developents:
+Future Developments:
 - add a backend to this frontend web application to allow users to interact with the website and store their data
