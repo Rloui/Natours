@@ -2,7 +2,7 @@
 
 Link to Live Project: https://rloui.github.io/Natours/
 
-Application Summary: Natours is a mock web application a allows adventourous people to book various nature tours. This app was a tutorial from udemy where I leared advanced CSS, HTML, and JQuery concepts.
+Application Summary: Natours is a mock web application that allows adventourous people to book various nature tours. This app was a tutorial from udemy where I leared advanced CSS, HTML, and JQuery concepts.
 
 Technologies used:
 - HTML5
